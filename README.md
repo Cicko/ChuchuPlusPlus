@@ -90,7 +90,7 @@ Just use the 'gulp' command and the default task will be triggered, then access 
   - [Personal page](http://adrianbzg.github.io)
 
 ### Rudolf Cicko
-  - Email: alu0100824780@ull.edu.es
+  - Email: alu0100824780@ull.edu.es || rudolfcicko2011@gmail.com
   - [Personal page](http://alu0100824780.github.io)
 
 ** Link to the subject "Procesadores de Lenguajes" (Language Processors):**
